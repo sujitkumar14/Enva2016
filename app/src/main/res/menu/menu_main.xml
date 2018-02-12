@@ -1,0 +1,35 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app ="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+
+   >
+    <item
+        android:id="@+id/register"
+        android:title="registration"
+        android:orderInCategory="100"
+
+
+        android:icon="@drawable/account"
+        app:showAsAction = "ifRoom"
+        />
+    <item
+        android:id="@+id/aboutEnva"
+        android:title="About Us"
+        android:orderInCategory="300"
+        android:icon="@drawable/leaf"
+
+         app:showAsAction="ifRoom"
+        />
+    <item
+
+        android:title="Grid"
+        android:orderInCategory="200"
+        android:icon="@drawable/view_grid"
+        android:id="@+id/gridLayout"
+        app:showAsAction="ifRoom"
+
+        />
+
+</menu>

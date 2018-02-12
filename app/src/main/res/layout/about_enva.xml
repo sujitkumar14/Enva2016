@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/description_background"
+
+    android:weightSum="3"
+    >
+    <android.support.v7.widget.Toolbar
+        android:layout_height="58dp"
+        android:layout_width ="match_parent"
+        android:id="@+id/envaToolbar"
+
+        android:background="@color/ColorPrimary"
+        />
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+
+      android:layout_margin="10dp"
+       android:text="@string/aboutEnva1"
+       android:textStyle="normal"
+       android:textColor="@color/primaryTextColor"
+
+       />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="0.6"
+    android:layout_margin="10dp"
+    android:text="@string/aboutEnva2"
+    android:textColor="@color/primaryTextColor"
+    />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/aboutEnva3"
+        android:layout_margin="10dp"
+        android:textColor="@color/primaryTextColor"/>
+
+</LinearLayout>

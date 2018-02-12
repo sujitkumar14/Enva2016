@@ -1,0 +1,177 @@
+<resources>
+    <string name="app_name">Enva 2016</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="onlineEvent">
+        <item>Nature Through Lens</item>
+
+    </string-array>
+    <string-array name="onlineEventDate">
+        <item>ONLINE</item>
+
+    </string-array>
+    <string-array name="onlineRegistrationFee">
+        <item>""</item>
+
+    </string-array>
+    <string-array name="onlineDescriptionOne">
+        <item>A RANDOM PHOTOGRAPHY CONTENT  WHICH WOULD JUDGE ON HOW WELL A PERSON CAN DEPICT THE SENSITIVE ISSUES OF NATURE OR HUMAN CONCERN THROUGH PICTURES.</item>
+
+
+    </string-array>
+    <string-array name="onlineDescriptionTwo">
+        <item>SUBMIT YOUR PICTURES TO OUR FACEBOOK PAGE:  https://www.facebook.com/msitprakriti/</item>
+
+    </string-array>
+
+    <string-array name="eventThree">
+        <item>Greeky</item>
+		<item>Amazing Race</item>
+		<item>Rangrez</item>
+        <item>Rajneeti</item>
+        <item>Arm wrestling</item>
+        <item>Footpool</item>
+        <item>Tasveer-O-Shayari</item>
+        <item>Open mic</item>
+        <item>TARQ</item>
+        <item>Mind Grind(GD)</item>
+        <item>STREET PLAY</item>
+    </string-array>
+    <string-array name="registrationFeeThree">
+        <item>Registration Fee: Rs 20/- per member</item>
+        <item>Registration Fee: Rs 20/- per member</item>
+        <item>Registration Fee: Rs 20/- per member</item>
+        <item>Registration Fee: Rs 20/- per member</item>
+        <item>Registration Fee: Rs 20/- per member</item>
+        <item>Registration Fee: Rs 20/- per member</item>
+        <item>Registration Fee: Rs 20/- per member</item>
+        <item>Registration Fee: Rs 20/- per member</item>
+        <item>Registration Fee: Rs 50/- for MSITIANS and Rs 100/- for Non MSITIANS</item>
+        <item>Registration Fee: Rs 20/- per member</item>
+        <item>Registration Fee: Rs 20/- per member</item>
+    </string-array>
+    <string-array name="dateThree">
+        <item>10 am onwards at MSIT Ground near Parking Area</item>
+        <item>10 am onwards at MSIT Ground near Parking Area</item>
+        <item>11 am onwards at backside of Auditorium</item>
+        <item>11 am onwards at MSIT Room No. 111</item>
+        <item>9 am onwards at Plain Ground near Canteen</item>
+        <item>9 am onwards at MSIT Ground near parking area</item>
+        <item>11 am onwards at MSIT Room No. 107</item>
+        <item>11 am onwards at Link corridor between MSI and MSIT</item>
+        <item>9 am onwards at MSIT Seminar Hall No. 406</item>
+        <item>9 am onwards at MSIT Hall No. 106</item>
+        <item>"10AM onwards near Maharaja Surajmal's statue on  3rd Feb 2016"</item>
+
+    </string-array>
+
+    <string-array name="descriptionThree">
+
+        <item>"GREEKY(GO GREEN GO) IT IS A CHALLENGING EVENT FOR A TEAM TO SHOW THEIR STRENGTH.  IT'S THEME WILL REVOLVE AROUND ENVIRONMENTAL ISSUES."</item>
+        <item>RACING IS A COMPETITON OF SPEED, AGAINST AN OBJECTIVE CRITERION ,THE CLOCK. THE COMPETITORS IN A RACE WILL TRY TO COMPLETE A GIVEN TASK IN THE SHORTEST AMOUNT OF TIME .</item>
+        <item>IT IS A RANGOLI COMPETITION THAT WILL GIVE OPPORTUNITY TO EXPRESS THE VIEWS ABOUT NATURE THROUGH VIBRANT COLORS OF NATURE.  </item>
+        <item>A FUN EVENT TOTALLY BASED ON POLITICS . IT IS AN EVENT TO CONVINCE PEOPLE and ASK THEM TO VOTE FOR A PARTICULAR TEAM AND TO ADVERTISE FOR A MINUTE IN THE GIVEN PROP. </item>
+        <item>"THIS EVENT IS A TRAIL OF STRENGTH IN WHICH TWO PEOPLE SIT OPPOSITE EACH OTHER WITH ONE ELBOW RESTING ON A TABLE,CLASP EACH OTHER'S HANDS, AND TRY TO FORCE OTHER'S ARM DOWN ON TO THE TABLE."</item>
+        <item>FOOTPOOL- THE REVOLUTION IN SPORT, IT IS A PERFECT COMBINATION OF FOOTBALL and POOL,PLAYED ON AN OVERSIZED POOL TABLE WITH ONE DIFFERENCE-YOU ARE IN THE CUE!!!...</item>
+        <item>AN ILLUSTRATION OF ART THROUGH WORDS,IN WHICH THE PARTICIPANT WILL HAVE TO WRITE A POEM (IN ANY LANGUAGE KNOWN)ABOUT THE IMAGES DEPICTING NATURE ISSUES OR HUMANITARIAN.</item>
+        <item>"MAKING PEOPLE'S EMOTIONAL HORMONES TICKLE IS A SPECIAL TALENT?THIS EVENT IS ALL ABOUT SHOWCASING THIS TALENT."</item>
+        <item>THIS  IS A DEBATE  EVENT IN WHICH A COMMON TOPIC WILL BE GIVEN TO THE PARTICIPANTS and THEY HAVE TO PUT UP THEIR VIWES ON IT.</item>
+        <item>THIS  IS A DEBATE  EVENT IN WHICH A COMMON ENVIRONMENTAL TOPIC WILL BE GIVEN TO THE PARTICIPANTS and THEY HAVE TO PUT UP THEIR VIWES ON IT.</item>
+        <item>THIS EVENT IS ABOUT PERFORMING STREET PLAY TO SPREAD AWARENESS ABOUT SOCIAL And ENVIRONMENTAL ISSUE, WITHOUT MISSING OUT ON THE ENTERTAINMENT PART.</item>
+    </string-array>
+
+
+    <string-array name="description2Threee">
+        <item>IT WILL HAVE 4 ROUNDS and EACH ROUND IS A GAME EVENT LIKE PUZZLE, DART, CRAZY BALL  AND EVIL RACE. 2 ROUNDS EACH WOULD BE CONDUCTED ON 1ST and 2ND DAY OF THE FEST.AND TEAM OF 2 CAN PARTICIPATE IN THE EVENT. PUZZLE and DART ROUND WOULD BE CONDUCTED ON FIRST DAY AND THE OTHER 2 ROUNDS( CRAZY BALL and EVIL RACE) WOULD BE ORGANIZED ON THE SECOND DAY. </item>
+        <item>THIS EVENT HAVING 3 ROUNDS WHIC IS COMPRISE OF TREASURE HUNT ROUND, HURDLE WITH TASKS  AND THE FINAL . ROUND 1 WOULD BE CONDUCTED ON 1ST DAY and ROUND 2 AND 3 WOULD BE CONDUCTED ON 2ND DAY OF THE FEST.THERE IS INDIVIDUAL AS WELL AS TEAM PARTICIPATION ALLOWED.</item>
+        <item>NUMBER OF PARTICIPANTS IN A TEAM IS MAXIMUM 4.</item>
+        <item>IT IS HAVING 3 ROUNDS.</item>
+        <item>SO THERE IS 3 ROUNDS, PARTICIPANTS WERE DIVIDED INTO TWO SLOTS and TWO PARTICIPANTS FROM BOTH THE SLOTS WILL COMPETE and BEST TWO WILL GO TO FINALS.</item>
+        <item>IN THIS, TEAM OF 2-4 MEMBERS IS ALLOWED TO PARTICIPATE.THIS EVENT CONSIST OF 4 ROUNDS WITH LOTS OF TWIST IN IT.</item>
+        <item>IT IS OF 2 ROUNDS.</item>
+        <item>""</item>
+        <item>THERE IS 2 ROUND AND IN FIRST ROUND, ALLOTMENTS OF PORTFOLIOS WILL BE ON THE BASIS OF PREVIOUS DEBATING EXPERINCE.</item>
+        <item>""</item>
+        <item>"contact:  Deepak- 8527840400"</item>
+    </string-array>
+
+
+
+    <string-array name="eventsFour">
+        <item>Greenovation</item>
+        <item>Tatto making</item>
+        <item>Mystery Rooms</item>
+        <item>Street Dance</item>
+        <item>Goth n Punk</item>
+        <item>Mind Grind(QUIZ)</item>
+        <item>"Writers' Battlefield"</item>
+    </string-array>
+    <string-array name="registrationFeeFour">
+        <item>Registration Fee: Rs 20/- per member</item>
+        <item>Registration Fee: Rs 20/- per member</item>
+        <item>Registration Fee: Rs 20/- per member</item>
+        <item>Registration Fee: Rs 20/- per member</item>
+        <item>Registration Fee: Rs 50/- per member</item>
+        <item>Registration Fee: Rs 20/- per member</item>
+        <item>Registration Fee: Rs 20/- per member</item>
+
+    </string-array>
+    <string-array name="dateFour">
+        <item>"10 am onwards near Maharaja Surajmal's Statue"</item>
+        <item>11 am onwards at corridor linking MSIT and MSI</item>
+        <item>10 am onwards at LG-1</item>
+        <item>11 am onwards at MSIT Ground centre stage</item>
+        <item>12 pm onwards at Auditorium</item>
+        <item>10 am onwards at MSIT Seminar Hall No. 406</item>
+        <item>11 am onwards at MSIT Room No. 107</item>
+
+    </string-array>
+
+
+    <string-array name="descriptionFour">
+        <item>"IT'S BRINGING OUT THE BEST OUT OF WASTE. PARTICIPANTS WILL BE GIVEN WASTE MATERIALS(ECO-FRIENDLY) and THEY WILL MAKE BEST OUT OF IT."</item>
+        <item>PAINTING IS A SPECIAL ART .</item>
+        <item>AS THE NAME SUGGESTED THAT  THE EVENT IS ALL  ABOUT  SECRETS and CLUES   WHICH WILL HELP TO SOLVE THE MYSTERY OF THE ROOM.   </item>
+        <item>CONSIDER YOUR FEET THAT NEVER STOP ON ANY RHYTHM? THIS EVENT ENCOURAGES THE TALENT OF ALL THE DANCING SHOES TO DANCE ON THE STREETS OF COLLEGE and ATTRACTS THE CROWD WITH THEIR PERFORMANCES.</item>
+        <item>GOT THE MOST CREATIVE IDEAS TO DRESS UP YOURSELF IN THE LEAST MATERIALISTIC USEFUL STUFF?THROUGH THIS EVENT WE ENCOURAGE A RAMP SHOW IN SELF DESIGNED COSTUME IDEAS RELATED TO THE NATURE.</item>
+        <item>A  QUIZ ABOUT ENVIRONMENTAL ISSUES and GRINDING OUR MIND TO FIND OUT SOLUTIONS, EFFECTIVE WAYS TO SPREAD AWARENESS and URGE PEOPLE TO TAKE CONCRETE STEPS TO COMBAT THE PROBLEM.</item>
+        <item>CONSIDER YOUR WORDS POWERFUL ENOUGH TO TICKLE THE EMOTIONS OF EVERYONE? THIS IS THE EVENT FOR YOU TO PORTRAY YOUR UTMOST TALENT. </item>
+
+
+    </string-array>
+
+
+    <string-array name="description2Four">
+        <item>THIS EVENT WILL ALSO CONDUCT IN 2 ROUNDS.</item>
+        <item>THIS IS A TATTOO MAKING COMPETETION CONDUCT IN TWO ROUNDS AND IT REQUIRED 2 MEMBERS IN A TEAM.IN FIRST, A TATTOO WILL GIVEN TO THE PARTICIPANTS and THEY HAVE TO IMMITATE THE SAME ON THEIR PARTNER.IN FINAL, DRAW A TATTOO BASED ON ANY HUMANITARIAN OR ENVIRONMENTAL ISSUES.</item>
+        <item>THIS EVENT CONSIST OF TWO ROUNDS (PUZZLE ROUND and NUMERIC CODE ROUND) IN WHICH A TEAM OF ONE PERSON OR A TEAM MAY COMPRISE MAXIMUM 4 MEMBERS CAN BE PARTICIPATE. THIS EVENT IS BASED ON A THEME OF HORROR OR A CRIME LOCATION.TEAM WHO CLEARS BOTH THE ROOMS IN MINIMUM AMOUNT OF TIME WILL BE DECLARED WINNER.</item>
+        <item>""</item>
+        <item>EXCEEDING THE TIME LIMIT WILL LEAD TO THE NEGATIVE MARKING OF THE TEAM.NO. OF PARTICIPANTS: 6-12 PER TEAM.</item>
+        <item>""</item>
+         <item>IT CONSIST OF 2 ROUNDS and  IN THE FINAL ROUND PARTICIPANTS WILL DRAW THE IMAGES ON THE BOARD and THEIR PARTNER NEED TO WRITE A STORY RELATED TO IT.</item>
+    </string-array>
+
+
+    <string name="aboutEnva1">
+        ENVA is the foundation day of PRAKRITI, MSIT. It is the birthday of this well-known society of the college. Though it is regarded as one-day event but for the members of Prakriti the same does not hold true.
+
+    </string>
+
+
+    <string name="aboutEnva2">
+        The participation of the members starts a month early before the D-Day!
+
+
+    </string>
+    <string name="aboutEnva3">
+        It starts from meetings, ideas, plannings, preparations, responsibilities, goes to action, participation, excitement and finally ends with fun, enjoyment and success! Every event or competition organised ends with the award distribution.
+
+Apart from this, it gives a noble opportunity to the students of this technical institution to participate and showcase their talent in various non-technical areas. Also, it provides them a chance to save the environment and be a part of the awared society.
+
+    </string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

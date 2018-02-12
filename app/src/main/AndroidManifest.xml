@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sujit.enva2016" >
+<uses-permission android:name="android.permission.INTERNET"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/prakritilogo"
+        android:label="@string/app_name"
+         >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme."
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity
+            android:name=".DescriptionClass"
+            android:label="Description"
+            android:theme="@style/AppTheme."
+            android:screenOrientation="portrait"
+            ></activity>
+        <activity
+            android:name=".LogoClass"
+            android:label="Enva 2016"
+            android:theme="@style/LogoTheme"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Registration"
+            android:label="Registration"
+            android:theme="@style/AppTheme."
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".aboutEnva"
+            android:label="About Enva"
+            android:theme="@style/AppTheme."
+            android:screenOrientation="portrait"/>
+    </application>
+
+</manifest>
